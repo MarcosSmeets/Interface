@@ -13,8 +13,8 @@ namespace Lista4_
     class contaCorrente : Conta
     {
         double valor;
-        double saldo;
-        double tarifa;
+        double saldo = 2000;
+        double tarifa = 1.50;
 
         public void depositar(double pValor)
         {
@@ -26,8 +26,8 @@ namespace Lista4_
         {
             valor = pValor;
 
-            double sacar = valor - saldo - tarifa;
-            if(sacar < saldo){
+            saldo = saldo - valor - tarifa;
+            if(saldo > 0){
                 Console.WriteLine("Saldo insulficiente");
             }
         }
@@ -38,7 +38,7 @@ namespace Lista4_
     class contaPoupanca : Conta
     {
         double valor;
-        double saldo;
+        double saldo = 100;
 
         public void depositar(double pValor){
             valor = pValor;
@@ -47,8 +47,8 @@ namespace Lista4_
 
         public void sacar(double pValor){
             valor = pValor;
-            double sacar = valor - saldo;
-            if(sacar < valor){
+            saldo = saldo - valor;
+            if(saldo > 0){
                 Console.WriteLine("Saldo Insulficiente");
             }
             
@@ -59,6 +59,8 @@ namespace Lista4_
 
     class geradorDeExtrato
     {
-        
+        public void GerarExtrato(Conta c){
+            c.getSaldo();
+        }
     }
 }

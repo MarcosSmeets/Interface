@@ -1,0 +1,13 @@
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.exe
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.deps.json
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.runtimeconfig.json
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.runtimeconfig.dev.json
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.dll
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\bin\Debug\netcoreapp3.1\Lista4°.pdb
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.csprojAssemblyReference.cache
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.AssemblyInfo.cs
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.dll
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.pdb
+C:\Users\marco\Documents\WorkSpace\C#\Lista4°\obj\Debug\netcoreapp3.1\Lista4°.genruntimeconfig.cache
